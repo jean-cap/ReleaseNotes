@@ -1,0 +1,30 @@
+[
+  {
+    "versao": "5.0",
+    "release-date": "07/08/2015",
+    "features-note": "Informações sobre as novas funcionalidades",
+    "features": [
+      {"feature1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
+      {"feature2": "Aenean venenatis sapien ut sem luctus sodales."},
+      {"feature3": "Sed vel tortor rutrum orci tincidunt porttitor id sit amet ipsum."}
+    ],
+    "enhancements-note": "Informações sobre os aprimoramentos",
+    "enhancements": [
+      {"enhancement1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
+      {"enhancement2": "Aenean venenatis sapien ut sem luctus sodales."},
+      {"enhancement3": "Sed vel tortor rutrum orci tincidunt porttitor id sit amet ipsum."}
+    ],
+    "fixes-note": "Informações sobre os problemas corrigidos",
+    "fixes": [
+      {"fixe1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
+      {"fixe2": "Aenean venenatis sapien ut sem luctus sodales."},
+      {"fixe3": "Sed vel tortor rutrum orci tincidunt porttitor id sit amet ipsum."}
+    ],
+    "known-issues-note": "Informações sobre os problemas conhecidos",
+    "known-issues": [
+      {"issue1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."},
+      {"issue2": "Aenean venenatis sapien ut sem luctus sodales."},
+      {"issue3": "Sed vel tortor rutrum orci tincidunt porttitor id sit amet ipsum."}
+    ]
+  }
+]
