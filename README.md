@@ -1,3 +1,3 @@
 # ReleaseNotes
 
-Um simples exemple de release notes
+Um simples exemplo de release notes
